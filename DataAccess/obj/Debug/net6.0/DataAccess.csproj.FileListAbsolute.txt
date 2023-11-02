@@ -1,0 +1,15 @@
+D:\CN7\PRN221\ProjectPRN231\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\CN7\PRN221\ProjectPRN231\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\CN7\PRN221\ProjectPRN231\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\CN7\PRN221\ProjectPRN231\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\CN7\PRN221\ProjectPRN231\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\CN7\PRN221\ProjectPRN231\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
